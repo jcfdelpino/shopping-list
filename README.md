@@ -1,0 +1,10 @@
+- Bacon 
+- Eggs
+- Bread
+- Wine
+- Milk
+- Powdered Chocolate
+- More Wine
+- Chicken Nuggets
+- More Wine
+- Water
