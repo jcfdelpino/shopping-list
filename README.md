@@ -8,3 +8,6 @@
 - Chicken Nuggets
 - More Wine
 - Water
+- Ice
+- Cereal
+- Chocolate Bar
